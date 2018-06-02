@@ -1,0 +1,61 @@
+
+	div.logo{	
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	}
+	div.main{
+	text-align:left;
+	background-color:white;
+	border: black 2px solid;	
+	margin-left:auto;
+	margin-right:auto;
+	width:85%;
+	}
+	body{
+	background-color:#624930;
+	text-align:center;
+	}
+	p{
+	font-size:20px;
+	}
+	h1{
+	font-size:35px;
+	text-align:left;
+	}
+	h2{
+	font-size:25px;
+	text-align:center;
+	padding-bottom: 40px;
+	}
+	h3{
+	font-size:20px;
+	padding:5px;
+	}
+	ul{
+	font-size:18px;
+	}
+	img.right{
+	float:right;
+	}
+	img.center{
+	margin-left:2px;
+	float:right;
+	}
+	img.left{
+	float:left;
+	}
+	p.copyright{
+	font-size:12px;
+	}
+	
+	p.times{
+	float:right;
+	text-aligh:right;
+	}
+	form{
+	margin:0px 20px;
+	text-align:center;
+	border: black 2px solid;
+	background-color:lightblue;
+	}
